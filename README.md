@@ -19,4 +19,4 @@ This is a simple **web-based** application that responds to a command like **"Ca
 - Click the button with a message like, "Can you tell me a joke?"
 - The bot will respond with a joke retrieved from the joke API.
 ### Here's how the bot looks like:
-<img src="https://github.com/pandeymansi/Joke_Generator/demo.png"/>
+<img src="https://github.com/pandeymansi/Joke_Teller_Bot/blob/main/Joke_Generator/demo.png"/>
