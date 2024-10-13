@@ -31,6 +31,7 @@ async function generateJoke(){
         jokeBtn.disabled = false;
     }
 }
+
 function createMessageElement(content){
     const element = document.createElement("div");
     element.classList.add("message");
@@ -41,8 +42,8 @@ function createMessageElement(content){
         element.classList.add("joke");
     }
     return element;
-
 }
+
 function setElementContent(element, content){
     element.innerHTML = content;
 }
